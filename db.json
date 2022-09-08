@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "nombre": "karen",
+      "apellido": "",
+      "empresa": "karen diseño",
+      "email": "karen@gmail.com",
+      "telefono": "33535",
+      "notas": "karen cotizando toner ",
+      "id": 2
+    }
+  ]
+}
